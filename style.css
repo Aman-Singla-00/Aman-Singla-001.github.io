@@ -1,0 +1,76 @@
+.timeWeek
+{
+	width:100px;
+	height:50px;
+	text-align: center;
+	background-color: #FF004D;
+	margin: 1px;
+	padding-top: 30px;
+	border-radius: 14px;
+}
+
+.column
+{
+	float: left;
+}
+.time
+{
+	width:100px;
+	height:70px;
+	text-align: center;
+	background-color: #FF004D;
+	margin: 1px;
+	padding-top: 60px;
+	border-radius: 14px;
+}
+.lec1
+{
+	width: 230px;
+	height:120px;
+	text-align: center;
+	background-color: #c6e2ff;
+	margin: 1px;
+	padding-top: 10px;
+	border-radius: 34px;
+}
+.week
+{
+	width:230px;
+	height:50px;
+	text-align: center;
+	background-color: #FF004D;
+	margin: 1px;
+	padding-top: 30px;
+	border-radius: 14px;
+}
+.lab
+{
+	width:230px;
+	height:191px;
+	text-align: center;
+	background-color: #BADA55;
+	margin: 1px;
+	padding-top: 70px;
+	border-radius: 34px;
+}
+.lec2
+{
+	width: 230px;
+	height:121px;
+	text-align: center;
+	background-color: white;
+	padding-top: 10px;/*
+	box-shadow: 2px 2px 1px 1px grey;*/
+}
+button
+{
+	background-color: blue;
+	border-radius: 2px;
+	border: 3px solid green;
+	color:white;
+	border-radius: 15px;
+}
+button:hover
+{
+	cursor: pointer;
+}
